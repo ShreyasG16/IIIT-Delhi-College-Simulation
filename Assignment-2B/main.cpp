@@ -43,6 +43,8 @@ int main()
 {
     Library library;
     // int ID = 1;
+     
+    /*
 
     // Opening journal.csv
     ifstream journalFile("journals.csv");
@@ -185,6 +187,8 @@ int main()
     }
     
     // library.printAllItems();
+
+    */
 
     int choice;
     do
