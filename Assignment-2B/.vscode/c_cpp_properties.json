@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "windows-gcc-x86",
+           "includePath": [
+    "${workspaceFolder}/**",
+    "C:/Users/shreyas/Documents/MTech IIIT Delhi/Semester 1/OOPD/Assignment-2B"
+],
+            "compilerPath": "C:/MinGW/bin/gcc.exe",
+            "cStandard": "${default}",
+            "cppStandard": "${default}",
+            "intelliSenseMode": "windows-gcc-x86",
+            "compilerArgs": [
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
