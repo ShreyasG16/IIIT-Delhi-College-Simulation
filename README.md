@@ -10,7 +10,9 @@ I proudly present a simulation of the **administrative structure** of **IIIT-Del
 
 ## 🏛️ Main Branch Overview 🏛️
 
-This branch focuses on simulating the administrative framework of **IIIT-Delhi**. You can find the official information here: 👉 [Click Here](https://www.iiitd.ac.in/people/administration).
+This branch focuses on simulating the administrative framework of **IIIT-Delhi**. 
+
+You can find the official information here: 👉 [Click Here](https://www.iiitd.ac.in/people/administration).
 
 ### Features:
 - 🌟 Classes representing various administrative roles, including **deans**, **associate deans**, and **departments**.
